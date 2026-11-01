@@ -2,7 +2,7 @@
 
 An n8n workflow that receives customer requests, uses an LLM to **classify, prioritize and summarize** them, logs every request to Google Sheets, and sends an **email alert for high-priority cases**.
 
-![Workflow diagram](workflow-diagram.png)
+![Workflow diagram](<img width="1200" height="627" alt="ai-request-triage-cover" src="https://github.com/user-attachments/assets/98a28970-61db-4618-bad7-4b0bfe8bc259" />
 
 ## Problem
 
